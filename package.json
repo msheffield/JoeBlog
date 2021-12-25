@@ -1,0 +1,23 @@
+{
+  "name": "joe-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msheffield/JoeBlog.git"
+  },
+  "author": "Maxwell Sheffield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msheffield/JoeBlog/issues"
+  },
+  "homepage": "https://github.com/msheffield/JoeBlog#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2"
+  }
+}
